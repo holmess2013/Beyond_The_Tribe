@@ -1,0 +1,119 @@
+
+
+=============================================================================================================
+Key Table Information
+=============================================================================================================
+
+Table Title
+
+  Annual Geographic Information Table
+  
+-------------------------------------------------------------------------------------------------------------
+
+Table ID
+
+  GEOINFO2024.GEOINFO
+  
+-------------------------------------------------------------------------------------------------------------
+
+Survey/Program
+
+  Geography
+  
+-------------------------------------------------------------------------------------------------------------
+
+Year
+
+  2024
+  
+-------------------------------------------------------------------------------------------------------------
+
+Dataset
+
+  GEO Geography Information
+  
+-------------------------------------------------------------------------------------------------------------
+
+Source
+
+  U.S. Census Bureau, 2024 Geography
+  
+-------------------------------------------------------------------------------------------------------------
+
+Release Date
+
+  February 12, 2026
+  
+-------------------------------------------------------------------------------------------------------------
+
+Dataset Universe
+
+  Geographic information available in data.census.gov for year 2024
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Methodology
+=============================================================================================================
+
+Data Items and Other Identifying Records
+
+  Geographic Area Name <br> Area (Land, in square meters) <br> Area (Land, in square miles) <br> Area (Water, in square meters) <br> Area (Water, in square miles) <br> Internal Point (Latitude) <br> Internal Point (Longitude) <br> For full list of all the variables including those available in the API refer to the following link: <br> <a href=\"https://api.census.gov/data/2024/geoinfo/variables.html\">https://api.census.gov/data/2024/geoinfo/variables.html<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Unit(s) of Observation
+
+  Geographic entity
+  
+-------------------------------------------------------------------------------------------------------------
+
+Geography Coverage
+
+  For a full list defining the geographies covered go to <a href=\"https://api.census.gov/data/2024/geoinfo/geography.html\"> https://api.census.gov/data/2024/geoinfo/geography.html<\/a> <br> <br> Note: In the API, additional records will exist that do not have a Geographic Area Name. These records fall into the Urban/Rural delineation and have no geographic area (AREALAND = 0) but are included as the counterpart to the Urban or Rural component which covers the entire geography (example: there is actually no rural land area in District of Columbia, but a rural identifier is created by default with a zero land area). These records will not display in the table in data.census.gov.
+  
+-------------------------------------------------------------------------------------------------------------
+
+Technical Documentation/Methodology
+
+  <a href=\"https://www.census.gov/programs-surveys/geography/about/glossary.html\">https://www.census.gov/programs-surveys/geography/about/glossary.html<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Table Information
+=============================================================================================================
+
+FTP Download
+
+  https://www2.census.gov/programs-surveys/geoinfo/2024/
+  
+-------------------------------------------------------------------------------------------------------------
+
+API Information
+
+  <a href=\"https://api.census.gov/data/2024/geoinfo.html\">https://api.census.gov/data/2024/geoinfo.html<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Data-Specific Notes
+
+  The Geography Information dataset (GEOINFO) contains all the geographies that are disseminated by the U.S Census Bureau during a calendar year. The dataset combines all these disseminated geographies into one centralized location to allow for easy user access. The Geography Information dataset includes spatial attributes for the disseminated geographies, such as a point of internal latitude, a point of internal longitude, and the area of the water and land both in square meters and square miles. <br> <br> The geographies contained in the Geography Information dataset are the geographies disseminated for surveys and programs such as the American Community Survey, Community Resilience Estimates, Current Population Survey, Decennial Census, Economic Census, Economic Surveys, Household Pulse Survey, International Database, Population Estimates, Secondary Employment Outcomes, Public Sector, and Survey of Market Absorption. The Geography Information dataset does include island area geographies but does not contain any international geographies. <br> <br> The Geography Information dataset will be created annually for the calendar year prior once all of the Geographic Information Tables for the various surveys and programs are received for the year. The Geography Information dataset will be released around the early summer every year. <br> <br> The program first produced a Geography Information dataset for data year 2023 and eventually will produce datasets going backwards to data year 2020. The program will also produce a Geography Information dataset for every subsequent year after data year 2023. <br> <br> Note: The Geography Information dataset contains the geographies disseminated for the Population Estimates Program but does not currently support the release of the population estimates. Please refer to the following URL for population estimates: <a href=\"https://www.census.gov/programs-surveys/popest/data.html\">https://www.census.gov/programs-surveys/popest/data.html<\/a> <br> <br> Note: The Geography Information dataset for 2024 does not include any island area geographies.
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Additional Information
+=============================================================================================================
+
+Contact Information
+
+  census.data@census.gov
+  
+-------------------------------------------------------------------------------------------------------------
+
+Suggested Citation
+
+  U.S. Census Bureau. \"Annual Geographic Information Table\" Geography, GEO Geography Information, Table GEOINFO, -1, https://data.census.gov/table/GEOINFO2024.GEOINFO?q=GEOINFO: Accessed on March 12, 2026.
+  
+-------------------------------------------------------------------------------------------------------------
